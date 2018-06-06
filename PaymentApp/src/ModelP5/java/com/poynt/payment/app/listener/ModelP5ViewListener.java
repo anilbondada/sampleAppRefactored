@@ -1,0 +1,1 @@
+package com.poynt.payment.app.listener;public interface ModelP5ViewListener {    void onViewResumed();    void onViewPaused();    void onViewStoped();    void setNewState();    void setCancelState();    void setWelcomeState();}

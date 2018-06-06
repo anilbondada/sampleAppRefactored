@@ -1,0 +1,1 @@
+package com.poynt.core.listener;public interface CurrentStateListener {    void OnStateEntered(int state);    void OnStateLeft(int state);}

@@ -1,0 +1,1 @@
+package com.poynt.core.base;import android.support.v7.app.AppCompatActivity;public class PoyntBaseActivity extends AppCompatActivity {}

@@ -1,0 +1,1 @@
+package com.poynt.core.events;public class MessageEvent {}

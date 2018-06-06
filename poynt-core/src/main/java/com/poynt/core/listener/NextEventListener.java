@@ -1,0 +1,1 @@
+package com.poynt.core.listener;public interface NextEventListener {    void showNextEvent();}

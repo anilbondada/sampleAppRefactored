@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PaymentApp/PaymentApp.iml" filepath="$PROJECT_DIR$/PaymentApp/PaymentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleeApp-master.iml" filepath="$PROJECT_DIR$/SampleeApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poynt-core/poynt-core.iml" filepath="$PROJECT_DIR$/poynt-core/poynt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poynt-lib/poynt-lib.iml" filepath="$PROJECT_DIR$/poynt-lib/poynt-lib.iml" />
+    </modules>
+  </component>
+</project>

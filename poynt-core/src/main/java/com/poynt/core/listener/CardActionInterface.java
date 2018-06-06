@@ -1,0 +1,1 @@
+package com.poynt.core.listener;import com.poynt.lib.listener.StateProvider;public interface CardActionInterface extends StateProvider {    void notifyOnStateEntered(int state);    void notifyOnStateLeft(int state);}

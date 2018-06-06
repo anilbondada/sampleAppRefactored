@@ -1,0 +1,1 @@
+package com.poynt.payment.app.listener;import com.poynt.payment.app.ui.ModelP61Fragment;public interface ModelP61View {    ModelP61Fragment getModelP61FragmentView();}

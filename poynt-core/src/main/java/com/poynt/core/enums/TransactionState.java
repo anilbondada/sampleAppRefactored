@@ -1,0 +1,1 @@
+package com.poynt.core.enums;public interface TransactionState {    int WELCOME_STATE = 1;    int CARD_INSERTED = 2;    int CARD_READING = 3;    int TRANSACTION_IN_PROGRESS = 4;    int TRANSACTION_FINISHED = 5;    int TRANSACTION_CANCELED = 6;}
